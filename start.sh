@@ -2,7 +2,7 @@
 export UUID=${UUID:-'1f685446-c968-49f0-9fe1-25847585b0b7'}
 export NEZHA_SERVER='nezha.dreama.eu.org'
 export NEZHA_PORT='443'     
-export NEZHA_KEY='uF7z1JSLmu6ZWtya9V' 
+export NEZHA_KEY='VrmaGOgQlxcIfWWzrD' 
 export FILE_PATH=${FILE_PATH:-'./.npm'}
 export SNI=${SNI:-'www.yahoo.com'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-7860}}"
